@@ -1,7 +1,7 @@
 ### About me
 
 - 🏫 Master's in Computer Science (GUT University)
-- :red_circle: Software Engineer at AMD (via Luxoft)
+- ⌨️ System Software Development Engineer at GRAID Technology
 - 🎵 Rythym games enthusiast (osu!)
 - 🐈 Cat owner
 - 🏋️ Gym enjoyer
